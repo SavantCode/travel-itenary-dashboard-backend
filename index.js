@@ -21,6 +21,8 @@ app.use(express.json());
 
 // Routes
 app.use('/api', itineraryRoutes);
+// app.use('/api/itinerary', itineraryRoutes);
+
 
 // Error handler (keep at the end)
 app.use(errorMiddleware);
