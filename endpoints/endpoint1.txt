@@ -12,3 +12,5 @@ http://localhost:5000/api/itineraries
   "tripOverviewTitle": "European Escape",
   "tripOverviewDetails": "A week exploring Paris and Rome"
 }
+
+
